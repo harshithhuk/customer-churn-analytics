@@ -1,0 +1,21 @@
+customer_id,name,region,signup_date,churn_status,lifetime_value
+1,John Smith,London,2023-01-10,0,3500
+2,Sarah Jones,Manchester,2023-03-15,1,1200
+3,Emma Wilson,Birmingham,2022-06-20,0,5800
+4,Michael Brown,Leeds,2023-11-05,0,2100
+5,Lisa Anderson,London,2023-02-14,1,900
+6,David Taylor,Bristol,2022-09-30,0,4200
+7,Rachel White,Manchester,2023-07-22,0,3400
+8,James Martin,Liverpool,2023-04-18,1,1500
+9,Karen Davis,London,2022-12-10,0,6100
+10,Robert Miller,Birmingham,2023-05-25,0,2800
+11,Jennifer Garcia,Leeds,2023-08-12,1,1100
+12,Christopher Lee,Bristol,2022-11-08,0,5600
+13,Michelle Martinez,London,2023-09-01,0,3200
+14,Daniel Rodriguez,Manchester,2023-01-20,0,4500
+15,Amanda Taylor,Liverpool,2023-03-10,1,800
+16,Andrew Johnson,Birmingham,2022-07-15,0,5200
+17,Elizabeth White,Leeds,2023-10-05,0,2300
+18,Joshua Williams,Bristol,2023-02-28,0,4800
+19,Sofia Brown,London,2023-06-17,1,1300
+20,Kevin Anderson,Manchester,2023-04-22,0,3900
